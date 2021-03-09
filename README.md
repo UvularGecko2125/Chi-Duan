@@ -30,4 +30,4 @@ void loop() {
     delay(1000);}
 }
 ```
-![image](https://github.com/UvularGecko2125/RGB/blob/master/DSC_0010.JPG)
+![image](https://github.com/UvularGecko2125/Chi-Duan/blob/main/DSC_0022.JPG)
